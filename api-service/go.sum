@@ -115,6 +115,8 @@ github.com/go-gl/glfw/v3.3/glfw v0.0.0-20200222043503-6f7a984d4dc4/go.mod h1:tQ2
 github.com/go-kit/kit v0.8.0/go.mod h1:xBxKIO96dXMWWy0MnWVtmwkA9/13aqxPnvrjFYMA2as=
 github.com/go-logfmt/logfmt v0.3.0/go.mod h1:Qt1PoO58o5twSAckw1HlFXLmHsOX5/0LbT9GBnD5lWE=
 github.com/go-logfmt/logfmt v0.4.0/go.mod h1:3RMwSq7FuexP4Kalkev3ejPJsZTpXXBr9+V4qmtdjCk=
+github.com/go-micro/api v0.0.0-20221129153544-7af94b294720 h1:pTanFjp85hWlcm+8b2xHpA5MzkZ86LBAkO4nMxDH4R0=
+github.com/go-micro/api v0.0.0-20221129153544-7af94b294720/go.mod h1:UfyIBmDNVJL16zPZQFsrc/BTfuS12qOiqurLWYKfFPs=
 github.com/go-resty/resty/v2 v2.1.1-0.20191201195748-d7b97669fe48/go.mod h1:dZGr0i9PLlaaTD4H/hoZIDjQ+r6xq8mgbRzHZf7f2J8=
 github.com/go-stack/stack v1.8.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/melR3HDY=
 github.com/gobs/pretty v0.0.0-20180724170744-09732c25a95b/go.mod h1:Xo4aNUOrJnVruqWQJBtW6+bTBDTniY8yZum5rF3b5jw=
@@ -389,6 +391,8 @@ github.com/strr0/go-micro-api v0.0.0-20221111131351-ae5021be53a3 h1:orppGNPOMfD6
 github.com/strr0/go-micro-api v0.0.0-20221111131351-ae5021be53a3/go.mod h1:3cCf1txd3WKYlxbvV7aMvqxL7vIdSIltAa7eOiiHLKs=
 github.com/strr0/go-micro-api v0.0.0-20221111144806-d417b3180a93 h1:KDEXLC7eUo9kF77wnXuBvHq55Qv89D+AwizyQ7S808c=
 github.com/strr0/go-micro-api v0.0.0-20221111144806-d417b3180a93/go.mod h1:Drrb8G1T/k1RGqRPIK9acs+fcZsuhwJXupUxTV6msmU=
+github.com/strr0/go-micro-api v0.0.0-20221125073128-ac1a48b6f2d0 h1:kpqp20XR1yZHm1DO25KX7mjYiAmKxTHD6HW+hIB0Dp0=
+github.com/strr0/go-micro-api v0.0.0-20221125073128-ac1a48b6f2d0/go.mod h1:Drrb8G1T/k1RGqRPIK9acs+fcZsuhwJXupUxTV6msmU=
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
 github.com/transip/gotransip/v6 v6.2.0/go.mod h1:pQZ36hWWRahCUXkFWlx9Hs711gLd8J4qdgLdRzmtY+g=
