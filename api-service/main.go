@@ -2,7 +2,7 @@ package main
 
 import (
 	"api-service/config"
-	"github.com/strr0/go-micro-api/cmd"
+	"github.com/go-micro/api/cmd"
 )
 
 func main() {
