@@ -3,7 +3,7 @@ module api-service
 go 1.18
 
 require (
-	github.com/strr0/go-micro-api v0.0.0-20221111144806-d417b3180a93
+	github.com/go-micro/api v0.0.0-20221129153544-7af94b294720
 	go-micro.dev/v4 v4.9.0
 )
 
@@ -32,4 +32,8 @@ require (
 	golang.org/x/text v0.3.6 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/protobuf v1.26.0 // indirect
+)
+
+replace (
+	github.com/go-micro/api v0.0.0-20221129153544-7af94b294720 => github.com/strr0/go-micro-api v0.0.0-20221125073128-ac1a48b6f2d0
 )
